@@ -1,43 +1,54 @@
-<h1 align="center">Hi, I'm Abdeldjaouad Farid 👋</h1>
+<h1 align="center">Abdeldjaouad Farid</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · Computer Science Graduate · Algiers, Algeria</b>
+  <b>Full-Stack Developer &nbsp;•&nbsp; Computer Science Graduate &nbsp;•&nbsp; Algiers, Algeria</b>
 </p>
 
 <p align="center">
-  <a href="https://abdeldjaouad-farid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/abdeldjaouadfarid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:abdeldjaouadfarid@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://abdeldjaouad-farid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abdeldjaouadfarid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abdeldjaouadfarid@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-I build modern, end-to-end products across **web, mobile, and IoT** using React, Node.js, Express, and PostgreSQL. Founder of **LOKA**, a live GPS livestock-tracking platform I built from custom ESP32 firmware up to a real-time web dashboard.
+I build modern, end-to-end products across web, mobile, and IoT using React, Node.js, Express, and PostgreSQL. Founder of **LOKA**, a live GPS livestock-tracking platform I built from custom ESP32 firmware up to a real-time web dashboard.
 
-- 🔭 Currently building **[LOKA](https://loka-livetrack.vercel.app)** — real-time IoT tracking (ESP32 → Node/Express API → React/Leaflet dashboard)
-- 🌱 Into clean architecture, real-time systems, and shipping fast
-- 💬 Ask me about **React, Node.js, Express, PostgreSQL, or ESP32/IoT**
-- 📫 Reach me at **abdeldjaouadfarid@gmail.com**
+- **Currently building** — [LOKA](https://loka-livetrack.vercel.app): real-time IoT tracking (ESP32 to Node/Express API to a React/Leaflet dashboard)
+- **Focused on** — clean architecture, real-time systems, and shipping fast
+- **Ask me about** — React, Node.js, Express, PostgreSQL, or ESP32/IoT
+- **Reach me at** — abdeldjaouadfarid@gmail.com
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" title="C++"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" title="React"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="TailwindCSS" title="TailwindCSS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite" title="SQLite"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino" title="Arduino"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux"/>&nbsp;
+</p>
 
-## 📌 Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+</p>
+
+## Featured Projects
 
 | Project | What it is | Tech |
 |---|---|---|
@@ -45,8 +56,8 @@ I build modern, end-to-end products across **web, mobile, and IoT** using React,
 | **[learn-english](https://github.com/abdeldjaouadfarid/learn-english)** | AI-powered English learning platform | React · Node.js |
 | **[Simulation](https://github.com/abdeldjaouadfarid/Simulation_backend)** | Fleet-management & geofencing simulator | Express · PostGIS · Socket.IO |
 
-## 🚀 What I'm building
+## What I'm Building
 
-**LOKA** turns a low-cost GPS tracker on an animal into a live position on a map — accessible from a phone app and a web dashboard. Under the hood: custom **ESP32-S3** firmware (GPS + LoRa + WiFi) → a **Node.js / Express** REST API with online/offline detection → a **React + Leaflet** dashboard with geofencing alerts. Selected to compete in the **Qabilah Hackathon**.
+**LOKA** turns a low-cost GPS tracker on an animal into a live position on a map — accessible from a phone app and a web dashboard. Under the hood: custom ESP32-S3 firmware (GPS + LoRa + WiFi) to a Node.js / Express REST API with online/offline detection, to a React + Leaflet dashboard with geofencing alerts. Selected to compete in the Qabilah Hackathon.
 
-<p align="center"><i>Live demos & portfolio: <a href="https://abdeldjaouad-farid.vercel.app">abdeldjaouad-farid.vercel.app</a></i></p>
+<p align="center"><i>Live demos &amp; portfolio: <a href="https://abdeldjaouad-farid.vercel.app">abdeldjaouad-farid.vercel.app</a></i></p>
