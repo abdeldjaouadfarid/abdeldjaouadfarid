@@ -45,11 +45,8 @@ I build modern, end-to-end products across **web, mobile, and IoT** using React,
 | **[learn-english](https://github.com/abdeldjaouadfarid/learn-english)** | AI-powered English learning platform | React · Node.js |
 | **[Simulation](https://github.com/abdeldjaouadfarid/Simulation_backend)** | Fleet-management & geofencing simulator | Express · PostGIS · Socket.IO |
 
-## 📊 GitHub Stats
+## 🚀 What I'm building
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdeldjaouadfarid&show_icons=true&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjaouadfarid&layout=compact&hide_border=true&theme=tokyonight" alt="top languages"/>
-</p>
+**LOKA** turns a low-cost GPS tracker on an animal into a live position on a map — accessible from a phone app and a web dashboard. Under the hood: custom **ESP32-S3** firmware (GPS + LoRa + WiFi) → a **Node.js / Express** REST API with online/offline detection → a **React + Leaflet** dashboard with geofencing alerts. Selected to compete in the **Qabilah Hackathon**.
 
 <p align="center"><i>Live demos & portfolio: <a href="https://abdeldjaouad-farid.vercel.app">abdeldjaouad-farid.vercel.app</a></i></p>
