@@ -60,4 +60,4 @@ I build modern, end-to-end products across web, mobile, and IoT using React, Nod
 
 **LOKA** turns a low-cost GPS tracker on an animal into a live position on a map — accessible from a phone app and a web dashboard. Under the hood: custom ESP32-S3 firmware (GPS + LoRa + WiFi) to a Node.js / Express REST API with online/offline detection, to a React + Leaflet dashboard with geofencing alerts. Selected to compete in the Qabilah Hackathon.
 
-<p align="center"><i>Live demos &amp; portfolio: <a href="https://www.abdeldjaouadfarid.me/">abdeldjaouad-farid.vercel.app</a></i></p>
+<p align="center"><i>Live demos &amp; portfolio: <a href="https://www.abdeldjaouadfarid.me/">abdeldjaouadfarid.me</a></i></p>
