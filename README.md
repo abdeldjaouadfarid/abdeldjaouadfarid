@@ -7,8 +7,10 @@
 
 <div align="center">
 
-<img src="https://github.com/abdeldjaouadfarid.png?size=150" width="150"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./about-dark.gif"/>
+  <img src="./about-light.gif" width="100%" alt="Web designer at work"/>
+</picture>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=8B7CF6&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;IoT+Builder+%C2%B7+Founder+of+LOKA;Firmware+%E2%86%92+API+%E2%86%92+Dashboard" alt="Typing SVG"/>
@@ -52,10 +54,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./about-dark.gif"/>
-  <img src="./about-light.gif" width="100%" alt="Web designer at work"/>
-</picture>
+
 
 ```jsonc
 {
