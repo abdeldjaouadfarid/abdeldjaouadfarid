@@ -49,8 +49,9 @@
 - 💬 &nbsp;Ask me about **React · Node · NestJS · PostgreSQL · ESP32**
 - 📫 &nbsp;**i@abdeldjaouadfarid.me**
 
-</td>
-<td width="45%" valign="top">
+<td width="45%" valign="top" align="center">
+
+<img src="./assets/working.gif" width="100%" alt="Working at laptop"/>
 
 ```jsonc
 {
@@ -63,7 +64,7 @@
     "iot":      ["ESP32-S3", "LoRa"]
   },
   "focus": "real-time systems",
-  "shipping": "LOKA 📡"
+  "shipping": "LOKA"
 }
 ```
 
