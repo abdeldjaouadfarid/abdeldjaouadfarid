@@ -49,9 +49,13 @@
 - 💬 &nbsp;Ask me about **React · Node · NestJS · PostgreSQL · ESP32**
 - 📫 &nbsp;**i@abdeldjaouadfarid.me**
 
+</td>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/working.gif" width="100%" alt="Working at laptop"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./about-dark.gif"/>
+  <img src="./about-light.gif" width="100%" alt="Web designer at work"/>
+</picture>
 
 ```jsonc
 {
