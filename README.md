@@ -29,14 +29,7 @@
 | **code** | modular nestjs backends, typed everywhere, clean architecture. |
 | **ship** | small milestones, live demos early, readable repos at handoff. |
 
-### § 05 · stats
-
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdeldjaouadfarid&show_icons=true&bg_color=0f0f0e&title_color=ecebe6&text_color=9a9a94&icon_color=ff7a45&hide_border=true&border_radius=0&include_all_commits=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjaouadfarid&layout=compact&bg_color=0f0f0e&title_color=ecebe6&text_color=9a9a94&hide_border=true&border_radius=0&langs_count=6"/>
-</p>
-
-### § 06 · where to find me
+### § 05 · where to find me
 
 | | |
 | :--- | :--- |
