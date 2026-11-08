@@ -1,43 +1,35 @@
-<!-- editorial dark theme · inspired by github.com/theluckystrike -->
+<div align="center">
 
-<a href="https://abdeldjaouadfarid.me"><img src="./assets/hero.svg" width="100%" alt="Abdeldjaouad Farid — full-stack and IoT engineer. Firmware → API → dashboard."/></a>
+<a href="https://abdeldjaouadfarid.me"><img src="./assets/map-hero.svg" width="100%" alt="Abdeldjaouad Farid — full-stack & IoT engineer. I put things on the map, from the chip to the screen."/></a>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=abdeldjaouadfarid&style=flat-square&color=ff7a45&label=profile%20views"/></p>
+<a href="https://abdeldjaouadfarid.me"><img src="https://img.shields.io/badge/portfolio-abdeldjaouadfarid.me-c6ff3d?style=flat-square&labelColor=0b1410"/></a>
+<a href="https://linkedin.com/in/abdeldjaouadfarid"><img src="https://img.shields.io/badge/linkedin-abdeldjaouadfarid-3ddc97?style=flat-square&labelColor=0b1410"/></a>
+<a href="mailto:i@abdeldjaouadfarid.me"><img src="https://img.shields.io/badge/email-i%40abdeldjaouadfarid.me-e8f3ec?style=flat-square&labelColor=0b1410"/></a>
+<img src="https://komarev.com/ghpvc/?username=abdeldjaouadfarid&style=flat-square&color=c6ff3d&label=views"/>
 
-**the pitch in one line.** full-stack & iot engineer. i build end-to-end products — from the firmware on a device, to the api behind it, to the dashboard in front of it. react · node · nestjs · postgresql · esp32. clean architecture, shipping fast. currently building **LOKA**, real-time gps livestock tracking for algerian herders.
+</div>
 
-<a href="https://loka-livetrack.vercel.app"><img src="./assets/loka.svg" width="100%" alt="LOKA — device, API, dashboard"/></a>
+```text
+> whoami
+  full-stack & iot engineer · algiers, algeria
+> currently
+  shipping LOKA — gps collars for livestock, live on your phone
+> i build
+  firmware → api → dashboard, as one system
+```
 
--> **open the live demo** · [loka-livetrack.vercel.app](https://loka-livetrack.vercel.app)
+<a href="https://loka-livetrack.vercel.app"><img src="./assets/loka-telemetry.svg" width="100%" alt="LOKA signal chain: ESP32-S3 device → Node.js API → React + Leaflet dashboard"/></a>
 
-<img src="./assets/stack.svg" width="100%" alt="Stack: React, Next.js, Tailwind, Node.js, NestJS, PostgreSQL, PostGIS, ESP32-S3, LoRa"/>
+<p align="center"><a href="https://loka-livetrack.vercel.app"><b>▶ open the LOKA live demo</b></a></p>
 
-### § 03 · projects
+<img src="./assets/stack-layers.svg" width="100%" alt="Stack: React, Next.js, Tailwind, Leaflet · Socket.IO · Node.js, NestJS, Express · PostgreSQL, PostGIS, MySQL · ESP32-S3, Arduino, LoRa, GPS"/>
 
-<p>
-<a href="https://github.com/abdeldjaouadfarid/SOUF-TRACK"><img src="./assets/sq-souf-track.svg" width="32%" alt="SOUF-TRACK"/></a>
-<a href="https://github.com/abdeldjaouadfarid/learn-english"><img src="./assets/sq-learn-english.svg" width="32%" alt="learn-english"/></a>
-<a href="https://github.com/abdeldjaouadfarid/Simulation_backend"><img src="./assets/sq-simulation.svg" width="32%" alt="Simulation"/></a>
+<h3 align="center">📍 waypoints</h3>
+
+<p align="center">
+<a href="https://github.com/abdeldjaouadfarid/SOUF-TRACK"><img src="./assets/wp-souf-track.svg" width="32%" alt="SOUF-TRACK — GPS livestock tracking"/></a>
+<a href="https://github.com/abdeldjaouadfarid/learn-english"><img src="./assets/wp-learn-english.svg" width="32%" alt="learn-english — AI English learning"/></a>
+<a href="https://github.com/abdeldjaouadfarid/Simulation_backend"><img src="./assets/wp-simulation.svg" width="32%" alt="Simulation — fleet & geofencing sim"/></a>
 </p>
 
-### § 04 · how i work
-
-| | |
-| :--- | :--- |
-| **scope** | one device, one api, one dashboard — designed together, not glued later. |
-| **realtime** | websockets, geofencing, online / offline detection as first-class features. |
-| **code** | modular nestjs backends, typed everywhere, clean architecture. |
-| **ship** | small milestones, live demos early, readable repos at handoff. |
-
-### § 05 · where to find me
-
-| | |
-| :--- | :--- |
-| **portfolio** | [abdeldjaouadfarid.me](https://abdeldjaouadfarid.me) |
-| **email** | [i@abdeldjaouadfarid.me](mailto:i@abdeldjaouadfarid.me) |
-| **linkedin** | [linkedin.com/in/abdeldjaouadfarid](https://linkedin.com/in/abdeldjaouadfarid) |
-| **building** | [LOKA — live demo](https://loka-livetrack.vercel.app) |
-
-<a href="mailto:i@abdeldjaouadfarid.me"><img src="./assets/cta.svg" width="100%" alt="Got a device, a map, a deadline? I build it end to end."/></a>
-
-<sub>built solo · shipped · algiers · i@abdeldjaouadfarid.me</sub>
+<a href="mailto:i@abdeldjaouadfarid.me"><img src="./assets/ping-cta.svg" width="100%" alt="Ping me — I'll find you. i@abdeldjaouadfarid.me"/></a>
